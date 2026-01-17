@@ -53,3 +53,26 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# NuGet
+project.assets.json
+project.nuget.cache
+*.csproj.nuget.*
+
+# MSBuild
+*.GeneratedMSBuildEditorConfig.editorconfig
+
+# Cache files
+*.cache
+

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShikshaOrbit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb9dd433ea129af15e729391445f95d0a65d4caf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShikshaOrbit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShikshaOrbit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
